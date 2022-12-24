@@ -4,6 +4,7 @@
 ## Getting started
 
 `$ yarn add https://github.com/markjornales/react-native-scratch2.git#main`
+`$yarn add sh://git@github.com:markjornales/react-native-scratch2.git#main`
  
  
 ## Reference Repo visit to
