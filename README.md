@@ -26,8 +26,8 @@
   - Add `new ScratchViewPackage()` to the list returned by the `getPackages()` method
 2. Append the following lines to `android/settings.gradle`:
   	```
-  	include ':react-native-scratch'
-  	project(':react-native-scratch').projectDir = new File(rootProject.projectDir, 	'../node_modules/react-native-scratch/android')
+  	include ':react-native-scratch2'
+  	project(':react-native-scratch2').projectDir = new File(rootProject.projectDir, 	'../node_modules/react-native-scratch2/android')
   	```
 3. Insert the following lines inside the dependencies block in `android/app/build.gradle`:
   	```
