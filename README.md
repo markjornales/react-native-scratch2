@@ -5,6 +5,9 @@
 
 `$ yarn add https://github.com/markjornales/react-native-scratch2.git#main`
  
+ 
+## Reference Repo visit to
+https://github.com/ConduitMobileRND/react-native-scratch
 
 ### Manual installation
 
