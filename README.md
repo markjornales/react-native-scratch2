@@ -28,7 +28,7 @@
   	```
 3. Insert the following lines inside the dependencies block in `android/app/build.gradle`:
   	```
-      implementation project(':react-native-scratch')
+      implementation project(':react-native-scratch2')
   	```
 
 
