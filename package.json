@@ -1,5 +1,5 @@
 {
-  "name": "react-native-scratch",
+  "name": "react-native-scratch2",
   "version": "1.2.1",
   "description": "Scratch view for react native",
   "main": "index.js",
@@ -8,22 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ConduitMobileRND/react-native-scratch"
+    "url": "git+https://github.com/markjornales/react-native-scratch.git"
   },
   "keywords": [
     "react-native",
-    "react-native-scratch",
-    "react-native-scratch-view",
-    "react-native-scratch-card",
-    "react-native-scratch-image",
-    "scratch",
-    "scratch-card",
-    "scratch-view",
-    "scratch-image"
+    "react-native-scratch2"
   ],
-  "author": "Roy Ben-Sasson",
+  "author": "Joseph Mark",
   "license": "MIT",
   "peerDependencies": {
     "react-native": "0.51.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/markjornales/react-native-scratch/issues"
+  },
+  "homepage": "https://github.com/markjornales/react-native-scratch#readme"
 }
