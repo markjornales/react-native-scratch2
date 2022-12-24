@@ -3,7 +3,7 @@
 
 ## Getting started
 
-`$ npm install react-native-scratch --save`
+`$ yarn add https://github.com/markjornales/react-native-scratch2.git#main`
 
 ### Mostly automatic installation
 
