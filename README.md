@@ -1,5 +1,5 @@
 
-# react-native-scratch
+# react-native-scratch2
 
 ## Getting started
 
