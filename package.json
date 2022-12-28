@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/markjornales/react-native-scratch.git"
+    "url": "git+https://github.com/markjornales/react-native-scratch2.git"
   },
   "keywords": [
     "react-native",
@@ -20,7 +20,7 @@
     "react-native": "0.51.0"
   },
   "bugs": {
-    "url": "https://github.com/markjornales/react-native-scratch/issues"
+    "url": "https://github.com/markjornales/react-native-scratch2/issues"
   },
-  "homepage": "https://github.com/markjornales/react-native-scratch#readme"
+  "homepage": "https://github.com/markjornales/react-native-scratch2#readme"
 }
