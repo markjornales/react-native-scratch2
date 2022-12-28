@@ -1,13 +1,15 @@
 
-# react-native-scratch
+# react-native-scratch2
 
 ## Getting started
 
-`$ npm install react-native-scratch --save`
+`$ yarn add https://github.com/markjornales/react-native-scratch2.git#main`
 
-### Mostly automatic installation
-
-`$ react-native link react-native-scratch`
+`$ yarn add sh://git@github.com:markjornales/react-native-scratch2.git#main`
+ 
+ 
+## Reference Repo visit to
+https://github.com/ConduitMobileRND/react-native-scratch
 
 ### Manual installation
 
@@ -15,7 +17,7 @@
 #### iOS
 
 1. In XCode, in the project navigator, right click `Libraries` ➜ `Add Files to [your project's name]`
-2. Go to `node_modules` ➜ `react-native-scratch` and add `RNScratch.xcodeproj`
+2. Go to `node_modules` ➜ `react-native-scratch2` and add `RNScratch.xcodeproj`
 3. In XCode, in the project navigator, select your project. Add `libRNScratch.a` to your project's `Build Phases` ➜ `Link Binary With Libraries`
 4. Run your project (`Cmd+R`)<
 
@@ -26,12 +28,12 @@
   - Add `new ScratchViewPackage()` to the list returned by the `getPackages()` method
 2. Append the following lines to `android/settings.gradle`:
   	```
-  	include ':react-native-scratch'
-  	project(':react-native-scratch').projectDir = new File(rootProject.projectDir, 	'../node_modules/react-native-scratch/android')
+  	include ':react-native-scratch2'
+  	project(':react-native-scratch2').projectDir = new File(rootProject.projectDir, 	'../node_modules/react-native-scratch2/android')
   	```
 3. Insert the following lines inside the dependencies block in `android/app/build.gradle`:
   	```
-      implementation project(':react-native-scratch')
+      implementation project(':react-native-scratch2')
   	```
 
 
